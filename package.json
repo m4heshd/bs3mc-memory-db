@@ -1,0 +1,12 @@
+{
+  "name": "bs3mc-memory-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3-multiple-ciphers": "7.6.2"
+  }
+}
